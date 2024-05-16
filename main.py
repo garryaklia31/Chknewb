@@ -16,10 +16,10 @@ if not LOADED_ENV:
     print(bad("You need to create the .env using .env.example as an example"))
     exit(1)
 
-API_ID = '19291502'
-API_HASH = '2b8d8fbf23d41a95c6fb70716028e73c'
-BOT_TOKEN = '586316412AHnCSus5lqkQswCh3ApyzOlpBksktYvwAc'
-CHANNEL_LOGS = '-1002079833699'
+API_ID = '28386099'
+API_HASH = 'a0057fbf1ca49ce5e9d26fd4afd6e78b'
+BOT_TOKEN = '6554745860:AAGB2EdbjWo8Q_jk-wTdmoOjgr_fzi46ufQ'
+CHANNEL_LOGS = '-1001757174395'
 
 app = Client(
     "bot",
